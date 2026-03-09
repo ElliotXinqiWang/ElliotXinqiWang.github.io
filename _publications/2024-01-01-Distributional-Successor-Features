@@ -1,0 +1,12 @@
+---
+title: "Distributional Successor Features Enable Zero-Shot Policy Optimization"
+collection: publications
+permalink: /publication/2024-distributional-successor-features
+excerpt: 'This paper introduces DiSPOs, a novel approach that learns distributions of successor features from offline datasets to enable zero-shot policy optimization across different reward functions, avoiding compounding errors in model-based RL.'
+date: 2024-12-01
+venue: 'Advances in Neural Information Processing Systems (NeurIPS 2024)'
+paperurl: 'https://proceedings.neurips.cc/paper_files/paper/2024/hash/e15ef893e137cd40e6c7313a04307437-Abstract-Conference.html'
+citation: 'Chuning Zhu, Xinqi Wang, Tyler Han, Simon S. Du, Abhishek Gupta. (2024). &quot;Distributional Successor Features Enable Zero-Shot Policy Optimization.&quot; <i>Advances in Neural Information Processing Systems</i>.'
+---
+
+[Download paper here](https://arxiv.org/pdf/2403.06328)

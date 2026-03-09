@@ -1,0 +1,12 @@
+---
+title: "Policy-Based Trajectory Clustering in Offline Reinforcement Learning"
+collection: publications
+permalink: /publication/2025-policy-based-trajectory-clustering
+excerpt: 'This paper introduces trajectory clustering for offline RL datasets where cluster centers represent generating policies, proposing Policy-Guided K-means (PG-Kmeans) and Centroid-Attracted Autoencoder (CAAE) with finite-step convergence guarantees.'
+date: 2025-06-01
+venue: 'arXiv preprint'
+paperurl: 'https://arxiv.org/abs/2506.09202'
+citation: 'Xinqi Wang, Hao Hu, Simon S. Du. (2025). &quot;Policy-Based Trajectory Clustering in Offline Reinforcement Learning.&quot; <i>arXiv:2506.09202</i>.'
+---
+
+[Download paper here](/files/policy-trajectory-clustering.pdf)

@@ -8,5 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I am a first year Ph.D. students of Paul C. Allen School of Computer Science & Engineering in University of Washington. My instructor is [Professor Simon S. Du](https://simonshaoleidu.com). Prior to that, I received my Bachelor degree from Tsinghua University in 2023.
-My research interests include reinforcement learning and learning theory. ​
+I am a Ph.D. student at the Paul G. Allen School of Computer Science & Engineering at the University of Washington, advised by [Professor Simon S. Du](https://simonshaoleidu.com). Prior to that, I received my Bachelor of Engineering degree from Tsinghua University (Yao Class) in 2023.
+
+My research interests include machine learning, reinforcement learning, learning theory, deep learning, agentic evaluation, and automated software engineering.
