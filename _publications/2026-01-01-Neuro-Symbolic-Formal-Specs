@@ -2,8 +2,11 @@
 title: "Neuro-Symbolic Generation and Validation of Memory-Aware Formal Function Specifications"
 collection: publications
 permalink: /publication/2026-neuro-symbolic-formal-specs
-excerpt: 'A neuro-symbolic approach to generating and validating memory-aware formal function specifications.'
-date: 2026-01-01
-venue: 'Preprint'
-citation: 'Liao Zhang, Tong Chen, Xiwei Wu, Qi Liu, Xiyu Zhai, Xinqi Wang, Qinxiang Cao. (2026). &quot;Neuro-Symbolic Generation and Validation of Memory-Aware Formal Function Specifications.&quot;'
+excerpt: 'A neuro-symbolic approach for automatically generating and validating formal specifications of memory-manipulating C functions: LLMs propose candidate specifications, which are iteratively refined and filtered using feedback from symbolic provers and proof-based refutation. Introduces the LeetCode-C-Spec benchmark.'
+date: 2026-03-01
+venue: 'arXiv preprint'
+paperurl: 'https://arxiv.org/abs/2603.13414'
+citation: 'Liao Zhang, Tong Chen, Xiwei Wu, Qi Liu, Xiyu Zhai, Xinqi Wang, Qinxiang Cao. (2026). &quot;Neuro-Symbolic Generation and Validation of Memory-Aware Formal Function Specifications.&quot; <i>arXiv:2603.13414</i>.'
 ---
+
+[Download paper here](https://arxiv.org/abs/2603.13414)
