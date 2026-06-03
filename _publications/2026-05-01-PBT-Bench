@@ -6,7 +6,7 @@ excerpt: 'A benchmark evaluating AI agents on property-based testing—a skill d
 date: 2026-05-01
 venue: 'arXiv preprint'
 paperurl: 'https://arxiv.org/abs/2605.15229'
-citation: 'Xinqi Wang, Lucas Jing, Liao Zhang, Simon S. Du. (2026). &quot;PBT-Bench: Benchmarking AI Agents on Property-Based Testing.&quot; <i>arXiv:2605.15229</i>.'
+citation: 'Xinqi Wang*, Lucas Jing*, Liao Zhang, Simon S. Du (*equal contribution). (2026). &quot;PBT-Bench: Benchmarking AI Agents on Property-Based Testing.&quot; <i>arXiv:2605.15229</i>.'
 ---
 
 [Download paper here](https://arxiv.org/abs/2605.15229)
