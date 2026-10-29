@@ -4,9 +4,9 @@ collection: publications
 permalink: /publication/2026-pbt-bench
 excerpt: 'A benchmark evaluating AI agents on property-based testing—a skill distinct from general code generation. It comprises 100 curated problems across 40 Python libraries with 365 injected bugs that are deliberately difficult to trigger with random inputs, requiring agents to read documentation, identify invariants, and specify targeted Hypothesis strategies.'
 date: 2026-05-01
-venue: 'arXiv preprint'
+venue: 'Advances in Neural Information Processing Systems (NeurIPS 2026), Evaluations & Datasets Track'
 paperurl: 'https://arxiv.org/abs/2605.15229'
-citation: 'Xinqi Wang*, Lucas Jing*, Liao Zhang, Simon S. Du (*equal contribution). (2026). &quot;PBT-Bench: Benchmarking AI Agents on Property-Based Testing.&quot; <i>arXiv:2605.15229</i>.'
+citation: 'Xinqi Wang*, Lucas Jing*, Liao Zhang, Simon S. Du (*equal contribution). (2026). &quot;PBT-Bench: Benchmarking AI Agents on Property-Based Testing.&quot; <i>Advances in Neural Information Processing Systems (NeurIPS), Evaluations & Datasets Track</i>.'
 ---
 
 [Download paper here](https://arxiv.org/abs/2605.15229)

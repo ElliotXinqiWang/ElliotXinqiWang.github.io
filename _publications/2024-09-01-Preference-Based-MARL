@@ -6,7 +6,7 @@ excerpt: 'This paper investigates preference-based multi-agent reinforcement lea
 date: 2024-09-01
 venue: 'arXiv preprint'
 paperurl: 'https://arxiv.org/abs/2409.00717'
-citation: 'Xinqi Wang, Natalia Zhang, Qiwen Cui, Runlong Zhou, Sham M. Kakade, Simon S. Du. (2024). &quot;Preference-Based Multi-Agent Reinforcement Learning: Data Coverage and Algorithmic Techniques.&quot; <i>arXiv:2409.00717</i>.'
+citation: 'Xinqi Wang*, Natalia Zhang*, Qiwen Cui, Runlong Zhou, Sham M. Kakade, Simon S. Du (*equal contribution). (2024). &quot;Preference-Based Multi-Agent Reinforcement Learning: Data Coverage and Algorithmic Techniques.&quot; <i>arXiv:2409.00717</i>.'
 ---
 
 [Download paper here](/files/preference-based-marl.pdf)
